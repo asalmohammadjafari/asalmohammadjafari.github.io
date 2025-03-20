@@ -27,4 +27,4 @@ social: true # includes social icons at the bottom of the page
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a final-year Computer Science student at Amirkabir University of Technology (Tehran Polytechnic), maintaining a 3.91/4 GPA and ranking among the top students. As an AI researcher, I explore various problems and experiment with new methodologies in artificial intelligence to develop effective solutions. Beyond research, my experience as a teaching assistant has deepened my understanding of various subjects and enabled me to effectively support students in their learning.
+I am a final-year Computer Science student at Amirkabir University of Technology (Tehran Polytechnic), maintaining a 3.91/4 GPA and ranking among the top students. I conduct AI research, exploring diverse challenges and applying new methods to develop practical solutions. Beyond research, my experience as a teaching assistant has strengthened my understanding of various subjects and sharpened my ability to guide students more effectively.
