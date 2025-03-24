@@ -1,13 +1,15 @@
 {
-  "education": {
-    "institution": "Amirkabir University of Technology (Tehran Polytechnic)",
-    "location": "Tehran, Iran",
-    "url": "https://aut.ac.ir/en",
-    "area": "Computer Science",
-    "studyType": "BSc",
-    "startDate": "2021",
-    "endDate": "2025"
-  },
+  "education": [
+    {
+      "institution": "Amirkabir University of Technology (Tehran Polytechnic)",
+      "location": "Tehran, Iran",
+      "url": "https://aut.ac.ir/en",
+      "area": "Computer Science",
+      "studyType": "BSc",
+      "startDate": "2021",
+      "endDate": "2025"
+    }
+  ],
   "interests": [
     {
       "name": "Deep Learning",
@@ -20,14 +22,14 @@
       "position": "Research Assistant",
       "url": "https://www.ipm.ac.ir/",
       "startDate": "2024",
-      "endDate": "Present"
+      "endDate": null
     },
     {
       "name": "Sharif University of Technology",
       "position": "Undergraduate Teaching Assistant",
       "url": "https://en.sharif.ir/",
       "startDate": "2024",
-      "endDate": "Present",
+      "endDate": null,
       "highlights": [
         "Artificial Intelligence (Spring 2025)",
         "Formal Languages and Automata Theory (Spring 2025)",
@@ -39,7 +41,7 @@
       "position": "Undergraduate Teaching Assistant",
       "url": "https://aut.ac.ir/en",
       "startDate": "2023",
-      "endDate": "Present",
+      "endDate": null,
       "highlights": [
         "Advanced Programming (Fall 2024, Spring 2025)",
         "Data Structures and Algorithms (Spring 2024, Fall 2024)",
