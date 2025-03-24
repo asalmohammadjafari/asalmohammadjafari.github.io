@@ -1,5 +1,5 @@
 {
-  "education":[
+  "education":
     {
       "institution": "Amirkabir University of Technology (Tehran Polytechnic)",
       "location": "Tehran, Iran",
@@ -8,8 +8,7 @@
       "studyType": "BSc",
       "startDate": "2021",
       "endDate": "2025"
-    }
-  ],
+    },
 
   "Research Interests":[
     {
